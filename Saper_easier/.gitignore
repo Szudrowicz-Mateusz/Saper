@@ -1,0 +1,47 @@
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Build directory
+build/
+bin/
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.suo
+*.ncb
+
+# Text Editor/IDE backup files
+*~
+*.swp
+*.bak
+
+# Temp files
+*.tmp
+*.log
+
+# Mac OS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
